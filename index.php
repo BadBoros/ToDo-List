@@ -22,7 +22,7 @@ $items = $itemsQuery->rowCount() ? $itemsQuery : [];
 
     <meta name="author" content="Enrico Pais">
     <meta charset="utf-8">
-    <title>ToDo List</title>
+    <title>WID</title>
 
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Shadows+Into+Light+Two" rel="stylesheet">
